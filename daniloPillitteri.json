@@ -5,7 +5,7 @@
     "@vocab": "http://schema.org/",
     "image": { "@type": "@id" }
   },
-  "@id": "https://github.com/DaniloPillitteri/jsonld-signAndVerify/new/main",
+  "@id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/daniloPillitteri.json",
   "@type": "Person",
   "name": "Danilo Pillitteri",
 }
