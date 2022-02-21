@@ -1,0 +1,11 @@
+
+
+{
+  @context": {
+    "@vocab": "http://schema.org/",
+    "image": { "@type": "@id" }
+  },
+  "@id": "https://github.com/DaniloPillitteri/jsonld-signAndVerify/new/main",
+  "@type": "Person",
+  "name": "Danilo Pillitteri",
+}
