@@ -11,5 +11,11 @@
       "type": "Ed25519VerificationKey2020", 
       "controller": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer01ControllerDocument.json",
       "publicKeyMultibase": "z6MksnCpNjGVkL87mnaC2sbBbAZL6uDhppyjY1VS8YBuYtBL"
+  },
+  "assertionMethod": {
+       "id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer01ControllerDocument.json#z6MksnCpNjGVkL87mnaC2sbBbAZL6uDhppyjY1VS8YBuYtBL",
+      "type": "Ed25519VerificationKey2020", 
+      "controller": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer01ControllerDocument.json",
+      "publicKeyMultibase": "z6MksnCpNjGVkL87mnaC2sbBbAZL6uDhppyjY1VS8YBuYtBL"
   }
 }
