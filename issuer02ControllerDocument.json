@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://w3id.org/security/bbs/v1",
+    "https://w3id.org/security/v2"
+  ],
+  "id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer02ControllerDocument.json",
+  "verificationMethod": {
+    "id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer02ControllerDocument.json#oqpWYKaZD9M1Kbe94BVXpr8WTdFBNZyKv48cziTiQUeuhm7sBhCABMyYG4kcMrseC68YTFFgyhiNeBKjzdKk9MiRWuLv5H4FFujQsQK2KTAtzU8qTBiZqBHMmnLF4PL7Ytu",
+    "controller": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer02ControllerDocument.json",
+    "type": "Bls12381G2KeyPair",
+    "publicKeyBase58": "oqpWYKaZD9M1Kbe94BVXpr8WTdFBNZyKv48cziTiQUeuhm7sBhCABMyYG4kcMrseC68YTFFgyhiNeBKjzdKk9MiRWuLv5H4FFujQsQK2KTAtzU8qTBiZqBHMmnLF4PL7Ytu"
+  },
+  "assertionMethod": {
+    "id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer02ControllerDocument.json#oqpWYKaZD9M1Kbe94BVXpr8WTdFBNZyKv48cziTiQUeuhm7sBhCABMyYG4kcMrseC68YTFFgyhiNeBKjzdKk9MiRWuLv5H4FFujQsQK2KTAtzU8qTBiZqBHMmnLF4PL7Ytu",
+    "controller": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer02ControllerDocument.json",
+    "type": "Bls12381G2KeyPair",
+    "publicKeyBase58": "oqpWYKaZD9M1Kbe94BVXpr8WTdFBNZyKv48cziTiQUeuhm7sBhCABMyYG4kcMrseC68YTFFgyhiNeBKjzdKk9MiRWuLv5H4FFujQsQK2KTAtzU8qTBiZqBHMmnLF4PL7Ytu"
+  }
+}
