@@ -1,9 +1,45 @@
 {
+    "@context": [
+        "https://w3id.org/security/v2",
+        "https://w3id.org/security/bbs/v1",
+        {
             "@context": {
                 "@version": 1.1,
                 "@protected": true,
-                "Car": "https://example.org/Car",
-                "color": "https://example.org/color",
-                "speed": "https://example.org/speed"
+
+                "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+        
+                "id": "@id",
+                "type": "@type",
+        
+                
+                "Property": "https://schema.org/Property",
+                "value": "ngsi-ld:hasValue",
+                "values": {
+                    "@id": "ngsi-ld:hasValues",
+                    "@container": "@list"
+                },
+                "Car":{
+                    "@id": "ngsi-ld:Car",
+                    "@context": {
+                        "@version": 1.1,
+                        "@protected": true,
+          
+                        "id": "@id",
+                        "type": "@type",
+
+                        "color": {
+                            "@id": "ngsi-ld:color", 
+                            "@type": "@id"
+                        },
+                        "speed": {
+                            "@id": "ngsi-ld:speed", 
+                            "@type": "@id"
+                        }  
+                    }
+                }
             }
+        }
+    ]
 }
+    
