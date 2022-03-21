@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/security/bbs/v1",
   "type": "Bls12381G2KeyPair",
-  "id": "#oqpWYKaZD9M1Kbe94BVXpr8WTdFBNZyKv48cziTiQUeuhm7sBhCABMyYG4kcMrseC68YTFFgyhiNeBKjzdKk9MiRWuLv5H4FFujQsQK2KTAtzU8qTBiZqBHMmnLF4PL7YtunyRJKEHrnFc7SmsJ7c9H17DJAZNqL4oEibU4LcCc9YaaVHhgKosMs6taffUj2UWiAV1jLaE7MapYsPGHrLr4MxyE4Wf3L1cG2FSWqK2wJDQA2vzfV22wX1eYgWaro1NtzPq",
-  "controller": "",
+  "id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/mergedControllerDocument.json#oqpWYKaZD9M1Kbe94BVXpr8WTdFBNZyKv48cziTiQUeuhm7sBhCABMyYG4kcMrseC68YTFFgyhiNeBKjzdKk9MiRWuLv5H4FFujQsQK2KTAtzU8qTBiZqBHMmnLF4PL7YtunyRJKEHrnFc7SmsJ7c9H17DJAZNqL4oEibU4LcCc9YaaVHhgKosMs6taffUj2UWiAV1jLaE7MapYsPGHrLr4MxyE4Wf3L1cG2FSWqK2wJDQA2vzfV22wX1eYgWaro1NtzPq",
+  "controller": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/mergedControllerDocument.json",
   "publicKeyBase58": "oqpWYKaZD9M1Kbe94BVXpr8WTdFBNZyKv48cziTiQUeuhm7sBhCABMyYG4kcMrseC68YTFFgyhiNeBKjzdKk9MiRWuLv5H4FFujQsQK2KTAtzU8qTBiZqBHMmnLF4PL7YtunyRJKEHrnFc7SmsJ7c9H17DJAZNqL4oEibU4LcCc9YaaVHhgKosMs6taffUj2UWiAV1jLaE7MapYsPGHrLr4MxyE4Wf3L1cG2FSWqK2wJDQA2vzfV22wX1eYgWaro1NtzPq"
 }
