@@ -5,15 +5,15 @@
   ],
   "id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer03ControllerDocument.json",
   "verificationMethod": {
-    "id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer03ControllerDocument.json#26mYH53zvBDXoAKzHobVQhSJjjd4JwTPv81ueiZrCaXfAThjCYFqqBWU8eQJbKCesJtp4d9npCf5LNXkZ1zFukuiKkS32V5zHvYkr4jQ3NHwif25t4JL38yNfx49PQNZyp4s",
-    "controller": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer02ControllerDocument.json",
+    "id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer03ControllerDocument.json#nyRJKEHrnFc7SmsJ7c9H17DJAZNqL4oEibU4LcCc9YaaVHhgKosMs6taffUj2UWiAV1jLaE7MapYsPGHrLr4MxyE4Wf3L1cG2FSWqK2wJDQA2vzfV22wX1eYgWaro1NtzPq",
+    "controller": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer03ControllerDocument.json",
     "type": "Bls12381G2KeyPair",
     "publicKeyBase58": "26mYH53zvBDXoAKzHobVQhSJjjd4JwTPv81ueiZrCaXfAThjCYFqqBWU8eQJbKCesJtp4d9npCf5LNXkZ1zFukuiKkS32V5zHvYkr4jQ3NHwif25t4JL38yNfx49PQNZyp4s"
   },
   "assertionMethod": {
-    "id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer03ControllerDocument.json#26mYH53zvBDXoAKzHobVQhSJjjd4JwTPv81ueiZrCaXfAThjCYFqqBWU8eQJbKCesJtp4d9npCf5LNXkZ1zFukuiKkS32V5zHvYkr4jQ3NHwif25t4JL38yNfx49PQNZyp4s",
+    "id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer03ControllerDocument.json#nyRJKEHrnFc7SmsJ7c9H17DJAZNqL4oEibU4LcCc9YaaVHhgKosMs6taffUj2UWiAV1jLaE7MapYsPGHrLr4MxyE4Wf3L1cG2FSWqK2wJDQA2vzfV22wX1eYgWaro1NtzPq",
     "controller": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/issuer03ControllerDocument.json",
     "type": "Bls12381G2KeyPair",
-    "publicKeyBase58": "26mYH53zvBDXoAKzHobVQhSJjjd4JwTPv81ueiZrCaXfAThjCYFqqBWU8eQJbKCesJtp4d9npCf5LNXkZ1zFukuiKkS32V5zHvYkr4jQ3NHwif25t4JL38yNfx49PQNZyp4s"
+    "publicKeyBase58": "nyRJKEHrnFc7SmsJ7c9H17DJAZNqL4oEibU4LcCc9YaaVHhgKosMs6taffUj2UWiAV1jLaE7MapYsPGHrLr4MxyE4Wf3L1cG2FSWqK2wJDQA2vzfV22wX1eYgWaro1NtzPq"
   }
 }
