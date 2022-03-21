@@ -21,7 +21,7 @@
                 "speed": {
                     "@id": "https://schema.org/speed",
                     "@type": "@id"
-                }
+                } 
             }
         },
 
@@ -35,8 +35,7 @@
         "values": {
             "@id": "ngsi-ld:hasValues",
             "@container": "@list"
-          }  
+        }
     }
 }
-    
     
