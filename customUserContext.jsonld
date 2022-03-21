@@ -13,7 +13,11 @@
                 "@protected": true,
 
                 "id": "@id",
-                "type": "@type"
+                "type": "@type",
+                "color": {
+                    "@id": "https://schema.org/color",
+                    "@type": "@id"
+                }
             }
         },
 
