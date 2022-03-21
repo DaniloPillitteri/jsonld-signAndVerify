@@ -17,6 +17,10 @@
                 "color": {
                     "@id": "https://schema.org/color",
                     "@type": "@id"
+                },
+                "speed": {
+                    "@id": "https://schema.org/speed",
+                    "@type": "@id"
                 }
             }
         },
