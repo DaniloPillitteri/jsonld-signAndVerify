@@ -13,18 +13,9 @@
                 "@protected": true,
 
                 "id": "@id",
-                "type": "@type",
-                "color": {
-                    "@id": "https://schema.org/color",
-                    "@type": "@id"
-                },
-                "speed": {
-                    "@id": "https://schema.org/speed",
-                    "@type": "@id"
-                } 
+                "type": "@type"
             }
         },
-
         "proof": {
             "@id": "https://w3id.org/security#proof",
             "@type": "@id",
@@ -35,7 +26,13 @@
         "values": {
             "@id": "ngsi-ld:hasValues",
             "@container": "@list"
-        }
+        },
+        "color": {
+            "@id":"https://schema.org/color",
+            "@type": "@id"
+        },
+        "speed": "https://schema.org/speed",
+        "brand":"https://schema.org/brand"
     }
 }
     
