@@ -25,7 +25,14 @@
             "@id": "https://w3id.org/security#proof",
             "@type": "@id",
             "@container": "@graph"
-        }  
+        },
+        "Property": "https://uri.etsi.org/ngsi-ld/Property",
+        "value": "https://uri.etsi.org/ngsi-ld/hasValue",
+        "values": {
+            "@id": "ngsi-ld:hasValues",
+            "@container": "@list"
+          }  
     }
 }
+    
     
