@@ -13,7 +13,7 @@
   "assertionMethod": {
        "id": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/controllerDocument2.json#z6Mkrc4jkSRdQnaC4iSaSi84BUUbnHo2ZmChvrq4PxP5ZDpi",
       "type": "Ed25519VerificationKey2020", 
-      "controller": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/controllerDocument.json",
+      "controller": "https://raw.githubusercontent.com/DaniloPillitteri/jsonld-signAndVerify/main/controllerDocument2.json",
       "publicKeyMultibase": "z6Mkrc4jkSRdQnaC4iSaSi84BUUbnHo2ZmChvrq4PxP5ZDpi"
   }
 }
